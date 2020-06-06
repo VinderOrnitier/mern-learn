@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "jwtSecret": "Super Secret Token",
+  "mongoUrl": "mongodb+srv://vinder:1234qwer@cluster0-dvcr2.azure.mongodb.net/dbmern?retryWrites=true&w=majority"
+}
